@@ -6,4 +6,4 @@ You can add your own functions for all of these for events, like switching pages
 
 ### Requirements
 
-+jQuery
+-- jQuery
